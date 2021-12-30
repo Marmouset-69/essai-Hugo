@@ -8,17 +8,7 @@
       <url>https://kangapi.github.io/docs-V4/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://kangapi.github.io/docs-V4/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kangapi.github.io/docs-V4/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hugo and Github Pages</title>
-      <link>https://kangapi.github.io/docs-V4/posts/hugo-and-github-pages/</link>
-      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kangapi.github.io/docs-V4/posts/hugo-and-github-pages/</guid>
-      <description>Guide to create a website with Hugo and hosting with Github Pages</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://kangapi.github.io/docs-V4/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
